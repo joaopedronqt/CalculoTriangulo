@@ -52,6 +52,8 @@ namespace Curso
                 System.Console.WriteLine("O valor da áreas são iguais");
                 System.Console.WriteLine("---------------------------");
             }
+
+            System.Console.WriteLine("Pronto vc concluiu o calculo do triangulo !!!");
                                
         }
     }
